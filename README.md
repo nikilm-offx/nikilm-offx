@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nikil</h1>
 <h3 align="center">Exploring AI, ML, and Deep Learning to solve real-world problems.</h3>
+<p align="center">
+🎓 AI & ML Undergraduate @ Sri Sairam Engineering College<br>
+💡 Passionate about Deep Learning, Computer Vision, and Intelligent Systems<br>
+🌱 I’m currently learning Java and exploring Web Development.<br>
+📫 How to reach me nikilmoffx@gmail.com
+</p>
 
-- 🎓 AI & ML Undergraduate @ Sri Sairam Engineering College
-- 💡 Passionate about Deep Learning, Computer Vision, and Intelligent Systems
-- 🌱 I’m currently learning **Java and exploring Web Development.**
-- 📫 How to reach me **nikilmoffx@gmail.com**
-- 🔭 Here's my [portfolio]()                                                 
-- Engineeing at 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/nikilmofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikilmofficial" height="30" width="40" /></a>
@@ -27,11 +27,23 @@
 
 <h3 align="center">💻 Workspace Spec:</h3>
 <p align="center">
-<img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /><img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" /> <img src="https://img.shields.io/badge/hp%20VICTUS-0096D6?style=for-the-badge&logo=hp&logoColor=white" /> <img src="https://img.shields.io/badge/Intel%20Core_i5_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white" /> <img src="https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
 </p>
 
+<div align="center">
+  
 [![Nikil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikilm-offx&show_icons=true&theme=chartreuse-dark)](https://github.com/nikilm-offx/github-readme-stats)
+
+</div>
+
+<div align="center">
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/NIKILM?theme=dark&font=Poly&ext=heatmap)
 
+</div>
+
+<div align="center">
+  
 [![Nikil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikilm-offx&bg_color=0a0f0b&color=f6f8fa&line=17de38&point=f6f8fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
