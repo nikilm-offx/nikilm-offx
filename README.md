@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikil</h1>
+<h1 align="center">Hi 👋, I'm Nikil M</h1>
 <h3 align="center">Exploring AI, ML, and Deep Learning to solve real-world problems.</h3>
 <p align="center">
 🎓 AI & ML Undergraduate @ Sri Sairam Engineering College<br>
